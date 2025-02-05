@@ -7,7 +7,7 @@ variable "instance_type" {
 }
 
 variable "sg_ids"{
-    default = ["sg-0030c62af2cd97b93"]
+    default = ["sg-0c89b3ecef190a0af"]
 }
 
 variable "tags" {
